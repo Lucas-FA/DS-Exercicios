@@ -1,0 +1,17 @@
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\MaiorDeTres.frmMaiorValorDeTres.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\Maior Valor de 3.csproj.GenerateResource.Cache
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\bin\Debug\Maior Valor de 3.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\bin\Debug\Maior Valor de 3.pdb
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\Maior Valor de 3.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\Maior Valor de 3.pdb
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\MaiorDeTres.frmPrincipal.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\Maior Valor de 3.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\bin\Debug\Maior Valor de 3.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\bin\Debug\Maior Valor de 3.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\MaiorDeTres.frmPrincipal.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Maior Valor de 3\Maior Valor de 3\obj\x86\Debug\Maior Valor de 3.pdb

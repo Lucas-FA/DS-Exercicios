@@ -1,0 +1,18 @@
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\bin\Debug\Média.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\bin\Debug\Média.pdb
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\WindowsFormsApplication1.frmMedia.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\Média.csproj.GenerateResource.Cache
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\Média.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\Média.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\Média.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\Média.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\bin\Debug\Média.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\bin\Debug\Média.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\WindowsFormsApplication1.frmMedia.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Média\Média\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Etec\Git Portable\DS-Exercicios\Media\Média\obj\x86\Debug\Média.exe
+F:\Etec\Git Portable\DS-Exercicios\Media\Média\obj\x86\Debug\Média.pdb

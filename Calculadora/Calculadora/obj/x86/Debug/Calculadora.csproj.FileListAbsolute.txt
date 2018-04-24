@@ -1,0 +1,16 @@
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
